@@ -455,7 +455,8 @@ def auto_nmap():
         print("")
         print("Démarrage de NMAP sur la target")
         print("")
-
+        
+        global RESULT_NMAP
         RESULT_NMAP = os.path.join(newpath, result_name + '_nmap.txt')
         f = open(RESULT_NMAP, 'a')
         process = subprocess.Popen(('nmap', "-sV",domain_target ), stdout=f)
