@@ -127,9 +127,9 @@ Cette librarie fournie un nombre important de CVE exploitables et est facilement
 | Fichier           | Description                                                              |
 | ----------------- | ------------------------------------------------------------------ |
 | main.py | Script qui initialise l'outils |
-| functions.py| Script qui stock toutes les fonctions utilisées par l'outils|
+| functions.py| Script qui stock toutes les fonctions utilisées par l'outil|
 | installer.sh| Script bash qui installe les pré-recquis pour le bon fonctionnement de l'application |
-| README.MD | Fichier à but informatif sur l'utilisation et les usages de l'outils |
+| README.MD | Fichier à but informatif sur l'utilisation et les usages de l'outil |
 | /result | Dossier qui contient les résultats des analyses |
 
 
