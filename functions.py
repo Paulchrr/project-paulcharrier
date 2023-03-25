@@ -518,5 +518,5 @@ def osint():
     search_mail()
     dorks(domain_target)
     is_wordpress()
-    print("Tous les résultats sont stockés dans : " +'\n')
+    print("\n Tous les résultats sont stockés dans : " +'\n')
     print(RESULT_FILE)
