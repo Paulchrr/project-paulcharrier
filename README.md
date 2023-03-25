@@ -89,6 +89,39 @@ $ ./main.py
 ```
 
 Les résultats de l'outils seront stockés dans le repertoire "/result" qui sera créé avec un fichier texte qui sera conformément nommé "nom_de_domaine.txt"
+
+
+## Ressources utilisés
+
+### Dorks
+Pour les dorks j'ai décidé de passé par le moteur de recherche DuckDuckGO
+- https://help.duckduckgo.com/duckduckgo-help-pages/results/syntax/
+- https://www.makeuseof.com/duckduckgo-get-faster-results-search-operators/
+- https://brettterpstra.com/2019/03/07/the-ultimate-guide-to-duckduckgo/
+
+Ces trois sites m'ont permis de construire ma fonction search_dorks
+### Sous-domaines
+Concernant les sous-domaines j'ai décidé de choisir l'API de https://securitytrails.com 
+
+- https://docs.securitytrails.com/reference/domain-subdomains
+
+J'ai également utilisé l'API de ZoomEye mais celle-ci est plus contraignante.
+Securitytrails fournie une API bien documentée est très rapide / pratique.
+### WhoIS
+
+Pour le WhoIS qui consitue le socle de l'invesigation numérique du domaine cible j'ai choisi l'API de https://ipwhois.app
+
+- https://ipwhois.io/documentation
+
+### CVE
+
+Concernant les CVE j'ai choisi la librairie "Circle CVE Search" (https://cve.circl.lu)
+
+- https://cve.circl.lu/api/last/
+
+Cette librarie fournie un nombre important de CVE exploitables et est facilement intégrable dans un script
+
+
 ## Fichier utilisés
 
 | Fichier           | Description                                                              |
