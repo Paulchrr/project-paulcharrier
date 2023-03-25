@@ -26,10 +26,9 @@
 
 Auto Playbook est un script qui à pour but d'automatiser un maximum de tâches dans un contexte orienté Red Team.
 
-<div align="center">
   <a href="https://github.com/Paulchrr/project-paulcharrier">
     <img src="https://user-images.githubusercontent.com/100359031/227740568-4466d3c9-1e51-4295-a726-20bcfa511ef6.png" alt="Logo" width="80" height="80">
-  </a></div>
+  </a>
 
 L'outils comporte trois modules ;
 - Auto
