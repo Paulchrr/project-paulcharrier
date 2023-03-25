@@ -74,7 +74,7 @@ $ git clone https://github.com/Paulchrr/project-paulcharrier
 $ cd project-paulcharrier
 
 # Rendre éxecutable l'installer
-$ chmod+x installer.sh
+$ chmod +x installer.sh
 
 # Executer le script d'installation
 $ ./installer.sh
