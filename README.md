@@ -2,10 +2,11 @@
 <br />
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="https://user-images.githubusercontent.com/100359031/227728684-e5b9223a-6474-4681-bd0c-a343d66ce503.png
-" alt="Logo" width="80" height="80">
+    <img src="https://www.supdevinci.fr/wp-content/themes/supdevinci/assets/images/logo-supvinci-sticky.png
+" alt="Logo" width="800" height="800">
   </a>
 
+  
   <h3 align="center">Best-README-Template</h3>
 
   <p align="center">
