@@ -93,7 +93,7 @@ $ ./installer.sh
 Pour utiliser "Auto Playbook"
 
 ```bash
-$ ./main.py
+$ python3 main.py
 ```
 
 Les résultats de l'outils seront stockés dans le repertoire "/result" qui sera créé avec un fichier texte qui sera conformément nommé "nom_de_domaine.txt"
