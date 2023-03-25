@@ -1,27 +1,7 @@
 #!/bin/bash
 
-# Vérifier si pip est installé
-if ! command -v pip &> /dev/null
-then
-    echo "pip n'est pas installé. Veuillez l'installer avant de continuer."
-    exit
-fi
 
-# Installer le module emailfinder
-pip install emailfinder
-pip install requests
-pip install dnspython
-pip install colorama
-pip install bs4
-pip install is_wordpress
 
-# Vérifier si l'installation a réussi
-if [ $? -eq 0 ]
-then
-    echo "Les module ont étés installés avec succès."
-else
-    echo "Une erreur est survenue lors de l'installation des modules."
-fi
 
 
 # Vérifier si Nmap est installé
@@ -38,4 +18,52 @@ then
         echo "Une erreur est survenue lors de l'installation de Nmap."
         exit
     fi
+fi
+
+# Vérifier si Python 3 est installé
+if ! command -v python3 &> /dev/null
+then
+    echo "Python 3 n'est pas installé. Installation en cours..."
+    # Installation de Python 3
+    apt-get update
+    apt-get install python3 -y
+    if [ $? -eq 0 ]
+    then
+        echo "Python 3 a été installé avec succès."
+    else
+        echo "Une erreur est survenue lors de l'installation de Python 3."
+        exit
+    fi
+fi
+
+# Vérifier si pip est installé
+if ! command -v pip &> /dev/null
+then
+    echo "pip n'est pas installé. Installation en cours..."
+    # Installation de pip pour Python 3
+    apt-get update
+    apt-get install python3-pip -y
+    if [ $? -eq 0 ]
+    then
+        echo "pip a été installé avec succès."
+    else
+        echo "Une erreur est survenue lors de l'installation de pip."
+        exit
+    fi
+fi
+
+# Installer les modules PIP
+pip install emailfinder
+pip install requests
+pip install dnspython
+pip install colorama
+pip install bs4
+pip install is_wordpress
+
+# Vérifier si l'installation a réussi
+if [ $? -eq 0 ]
+then
+    echo "Les module ont étés installés avec succès."
+else
+    echo "Une erreur est survenue lors de l'installation des modules."
 fi
