@@ -2,7 +2,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/Paulchrr/project-paulcharrier">
-    <img src="https://studl.com/assets/uploads/logo_ecoles/420/photo58d909424ebfa1.57301377.png" alt="Logo" width="150" height="150">
+    <img src="https://studl.com/assets/uploads/logo_ecoles/420/photo58d909424ebfa1.57301377.png" alt="Logo" width="150" height="200">
   </a>
 
  
