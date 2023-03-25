@@ -498,6 +498,9 @@ def auto():
     auto_whois()
     is_wordpress()
     auto_nmap()
+    print("Tous les résultats sont stockés dans : " +'\n')
+    print(RESULT_FILE)
+    print(RESULT_NMAP)
 # ------------------------------------------------------------------
 
 def osint():
@@ -508,3 +511,5 @@ def osint():
     search_mail()
     dorks(domain_target)
     is_wordpress()
+    print("Tous les résultats sont stockés dans : " +'\n')
+    print(RESULT_FILE)
