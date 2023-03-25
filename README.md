@@ -28,7 +28,7 @@ Auto Playbook est un script qui à pour but d'automatiser un maximum de tâches 
 
 <div align="center">
   <a href="https://github.com/Paulchrr/project-paulcharrier">
-    <img src="https://user-images.githubusercontent.com/100359031/227736860-ffa43474-05be-4146-b649-6006f495ce20.png" alt="Logo" width="650" height="200">
+    <img src="https://user-images.githubusercontent.com/100359031/227736860-ffa43474-05be-4146-b649-6006f495ce20.png" alt="Logo" width="450" height="200">
   </a></div>
 
 L'outils comporte trois modules ;
