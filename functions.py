@@ -451,13 +451,15 @@ def auto_nmap():
     response_reconnaissance = int(response_reconnaissance) - 1
 
     selected_option = options[response_reconnaissance]
+    global RESULT_NMAP
+    RESULT_NMAP = os.path.join(newpath, result_name + '_nmap.txt')
+    
     if selected_option == "Oui":
         print("")
         print("Démarrage de NMAP sur la target")
         print("")
         
-        global RESULT_NMAP
-        RESULT_NMAP = os.path.join(newpath, result_name + '_nmap.txt')
+        
         f = open(RESULT_NMAP, 'a')
         process = subprocess.Popen(('nmap', "-sV",domain_target ), stdout=f)
 
