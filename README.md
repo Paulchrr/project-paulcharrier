@@ -26,6 +26,10 @@
 
 Auto Playbook est un script qui à pour but d'automatiser un maximum de tâches dans un contexte orienté Red Team.
 
+Auto Playbook a été entièrement codé en : 
+
+<img https://www.actuia.com/wp-content/uploads/2022/01/logopython-768x333.png alt="Logo" width="150" height="200">
+
 L'outils comporte trois modules ;
 - Auto
 - Osint - Reconnaissance passive
