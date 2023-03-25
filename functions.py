@@ -465,6 +465,10 @@ def auto_nmap():
             time.sleep(8)
             continue
         f.close()
+        
+        with open(RESULT_NMAP, 'r') as x:
+            print_result = x.read()
+            print(print_result)
     else:
         pass
 # ------------------------------------------------------------------
