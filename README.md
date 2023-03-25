@@ -1,8 +1,9 @@
 
 <br />
 <div align="center">
-  <a href="(https://user-images.githubusercontent.com/100359031/227728625-7d3f8a6f-741e-4441-abb9-2d5280c848dc.png)">
-    <img src="![image](https://user-images.githubusercontent.com/100359031/227728651-7a7bf11a-3100-40a1-bbd0-9744fe7bef11.png)" alt="Logo" width="80" height="80">
+  <a href="https://github.com/othneildrew/Best-README-Template">
+    <img src="https://user-images.githubusercontent.com/100359031/227728684-e5b9223a-6474-4681-bd0c-a343d66ce503.png
+" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Best-README-Template</h3>
@@ -20,6 +21,7 @@
     <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
   </p>
 </div>
+
 
 
 
