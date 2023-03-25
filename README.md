@@ -1,7 +1,7 @@
 
 <br />
 <div align="center">
-  <a href="![image](https://user-images.githubusercontent.com/100359031/227728625-7d3f8a6f-741e-4441-abb9-2d5280c848dc.png)">
+  <a href="(https://user-images.githubusercontent.com/100359031/227728625-7d3f8a6f-741e-4441-abb9-2d5280c848dc.png)">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
