@@ -7,19 +7,12 @@
 
  
   
-  <h3 align="center">Best-README-Template</h3>
+  <h3 align="center">Auto Playbook</h3>
 
   <p align="center">
-    Auto Playbook, un playbook d'automatisation
+    Un playbook d'automatisation RED TEAM
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
-    ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
+
   </p>
 </div>
 
