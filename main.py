@@ -85,6 +85,6 @@ def choix_input():
     if selected_option == "Obtenir les dernières CVE":
         print("\n Voici les 30 dernières CVE : \n")
         get_latest_cve(30)
-3
+
 launch()
 choix_input()
