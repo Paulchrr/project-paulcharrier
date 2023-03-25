@@ -2,8 +2,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="https://www.supdevinci.fr/wp-content/themes/supdevinci/assets/images/logo-supvinci-sticky.png
-" alt="Logo" width="800" height="800">
+    <img src="https://www.supdevinci.fr/wp-content/themes/supdevinci/assets/images/logo-supvinci-sticky.png" alt="Logo" width="800" height="800">
   </a>
 
   
