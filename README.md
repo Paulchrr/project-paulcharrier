@@ -121,6 +121,18 @@ Concernant les CVE j'ai choisi la librairie "Circle CVE Search" (https://cve.cir
 
 Cette librarie fournie un nombre important de CVE exploitables et est facilement intégrable dans un script
 
+### PIP utilisés
+
+
+| Nom          | Ressource                                                              |
+| ----------------- | ------------------------------------------------------------------ |
+| emailfinder | https://pypi.org/project/emailfinder/ |
+| requests| https://pypi.org/project/requests/|
+| dnspython| https://pypi.org/project/dnspython/ |
+| colorama | https://pypi.org/project/colorama/ |
+| bs4 | https://pypi.org/project/beautifulsoup4/ |
+| is_wordpress | https://pypi.org/project/is-wordpress/ |
+
 
 ## Fichier utilisés
 
