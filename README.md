@@ -13,7 +13,7 @@ L'outils comporte trois modules ;
 Nous allons revenir plus en détails sur chacun des modules pour expliquer plus en détails les actions qui seront réalisés dans chacun d'entre eux.
 
 ### Mode Auto
-
+-
 Le mode Auto est destiné à un usage plutôt offensif.
 Il est composé de plusieurs fonctions telles que :
 
