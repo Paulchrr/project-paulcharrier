@@ -6,11 +6,6 @@ import os
 from emailfinder.extractor import *
 import subprocess
 from bs4 import BeautifulSoup
-# ------------------------------------------------------------------
-#PIP INSTALL :
-    #dnspython
-    #emailfinder
-    #is_wordpress
 
 
 # ------------------------------------------------------------------
