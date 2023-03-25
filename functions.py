@@ -497,9 +497,7 @@ def auto():
     choose_domain()
     create_result()
     auto_whois()
-    get_sub_domains(domain_target,RESULT_FILE)
     is_wordpress()
-    search_mail()
     auto_nmap()
 # ------------------------------------------------------------------
 
