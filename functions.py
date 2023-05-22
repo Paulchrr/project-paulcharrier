@@ -10,7 +10,7 @@ from bs4 import BeautifulSoup
 
 # ------------------------------------------------------------------ #
 #Clé API (https://securitytrails.com)
-securitytrails_API = "D8z2FaQzRIItqFsS88WW7TFVxBghkD3Q"
+securitytrails_API = "BbdsCjNO24myd6Af5tv7t608z8Zy11Ev"
 
 # ------------------------------------------------------------------ #
 #Fonction qui demande à l'utilisateur le nom de domaine cible
